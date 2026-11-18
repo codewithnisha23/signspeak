@@ -1,0 +1,1 @@
+"""SIGNSPEAK application package."""
